@@ -1,10 +1,4 @@
-server:
-  port: 8086
-
-
 spring:
-  application:
-    name: cloud-payment-service
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
     #    driver-class-name: org.gjt.mm.mysql.Driver
